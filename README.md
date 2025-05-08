@@ -1,4 +1,14 @@
 # MultiFile-RAG
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?logo=amazon-aws&logoColor=white" alt="AWS Bedrock"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/FAISS-282C34?logo=faiss&logoColor=white" alt="FAISS"/>
+</p>
 
 ## Introduction
 
@@ -18,16 +28,7 @@ It supports semantic search, structured querying through intelligent agents, and
 
 ---
 ## Technologies Used
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?logo=amazon-aws&logoColor=white" alt="AWS Bedrock"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white" alt="Ollama"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/FAISS-282C34?logo=faiss&logoColor=white" alt="FAISS"/>
-</p>
+
 | Category     | Tools / Libraries                               |
 | ------------ | ----------------------------------------------- |
 | LLMs         | AWS Bedrock (Claude, Titan), Ollama (LLaMA 3.2) |
