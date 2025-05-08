@@ -1,0 +1,9 @@
+__pycache__/
+venv/
+temp/
+file_exemple/
+*.log
+*.pyc
+.env
+faiss_index/
+.*
