@@ -1,0 +1,17 @@
+streamlit
+langchain-aws
+psutil
+PyPDF2
+langchain
+langchain-experimental
+langchain-community
+datasets
+python-docx
+faiss-cpu
+python-dotenv
+nltk
+tabulate
+boto3
+botocore
+pandas
+pytest
