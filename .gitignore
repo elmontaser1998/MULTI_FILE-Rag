@@ -1,5 +1,4 @@
 *.log
-file_exemple/
 temp/
 venv/
 faiss_index/
