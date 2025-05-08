@@ -13,12 +13,12 @@ def test_save_chat_to_csv():
     
 def test_extract_text_from_pdfs(tmp_path):
     # Crée un faux fichier PDF avec PyPDF2
-    pdf_path = "file_exemple\chatUnitTest.pdf"
+    pdf_path = "file_exemple/chatUnitTest.pdf"
     result = extract_text_from_pdfs([open(pdf_path, "rb")])
     assert isinstance(result, str)
     
 def test_extract_text_from_word(tmp_path):
-    word_path = "file_exemple\\resume REN.docx"
+    word_path = "file_exemple/resume REN.docx"
     result = extract_text_from_word([open(word_path, "rb")])
     assert isinstance(result, str)
 
